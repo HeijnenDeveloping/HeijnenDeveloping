@@ -1,5 +1,7 @@
 Hi, I'm @HeijnenDeveloping! 👋
-Welcome to my GitHub profile. I'm passionate about all things related to development and technology. If you're curious to know more about what I'm up to, you've come to the right place.
+
+Welcome to my GitHub profile. I'm passionate about all things related to development and technology. 
+If you're curious to know more about what I'm up to, you've come to the right place.
 
 About Me
 👀 I'm interested in...
